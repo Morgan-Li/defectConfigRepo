@@ -8,6 +8,7 @@ app:
   # is not deployed. TEST1
   #version: ""
 
+
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
